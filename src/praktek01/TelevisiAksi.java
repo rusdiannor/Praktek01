@@ -33,7 +33,9 @@ public class TelevisiAksi {
         Sharp.jenis="Slim";
         Sharp.kelebihan="HDMI";
         
-        
+        LG.cetakInfo();
+        Toshiba.cetakInfo();
+        Sharp.cetakInfo();
         
    
     }
